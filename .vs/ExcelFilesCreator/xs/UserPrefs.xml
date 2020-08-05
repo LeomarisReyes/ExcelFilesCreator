@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{A42F282B-8BBC-4981-B098-D525DBD1D928}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExcelFilesCreator.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.ExcelFilesCreator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.19246DB7-ED17-4769-94AD-22BF5FA8FA24" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExcelFilesCreator/Services/ExcelService.cs">
+    <Files>
+      <File FileName="ExcelFilesCreator/Models/ExcelStructure.cs" Line="6" Column="1" />
+      <File FileName="ExcelFilesCreator/Views/ExportingEPage.xaml" Line="4" Column="1" />
+      <File FileName="ExcelFilesCreator/Views/ExportingEPage.xaml.cs" Line="13" Column="20" />
+      <File FileName="ExcelFilesCreator/App.xaml.cs" />
+      <File FileName="ExcelFilesCreator/ViewModels/ExportingExcelViewModel.cs" Line="36" Column="44" />
+      <File FileName="ExcelFilesCreator.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="ExcelFilesCreator/Services/ExcelService.cs" Line="41" Column="13" />
+      <File FileName="ExcelFilesCreator/Views/ExportingExcelPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExcelFilesCreator/Views/ExportingExcelPage.xaml" />
+      <File FileName="ExcelFilesCreator/Models/Contacts.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExcelFilesCreator" expanded="True" selected="True">
+            <Node name="ExcelFilesCreator" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ExportingEPage.xaml" expanded="True" />
+                <Node name="ExportingExcelPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="ExcelFilesCreator.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
